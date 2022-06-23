@@ -68,3 +68,11 @@ I would like to practice using css grid and flexbox.
 ## Acknowledgments
 
 I really apprecaite Kevin Powell from scrimba that made this challenge easy to do it.
+
+
+![Home](https://user-images.githubusercontent.com/71352379/175405660-dfba4153-39c3-4826-9241-8fcfe25237d3.png)
+![Destination Page](https://user-im![C![Technology Page](https://user-images.githubusercontent.com/71352379/175405697-3fe9de7a-cdc6-4741-ad4c-641813b9691f.png)
+rew Page](https://user-images.githubusercontent.com/71352379/175405687-1a48dcf1-f411-48f0-87ad-029639f11386.png)
+ages.githubusercontent.com/71352379/175405676-bf![Responsive Page](https://user-images.githubusercontent.com/71352379/175405727-781bf3ae-8b5d-4466-900a-d3380daf7593.png)
+91067d-36e5-48af-9498-8436d2e2b1c7.png)
+![Responsive Page 1](https://user-images.githubusercontent.com/71352379/175405709-b071bc79-5df8-460d-af5f-99a62b8bda42.png)
